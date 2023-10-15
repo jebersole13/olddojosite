@@ -5,8 +5,8 @@ function Schedule() {
   return (
     <div>
       <h1>Class Schedule</h1>
-      <h3>Open free classes</h3>
-      <h5>All classes are listed in JPN time. Please check your local time to check for attendance.</h5>
+      <h3>Open free zoom classes</h3>
+      <h5>All classes are listed in JPN time. Please check your local time.</h5>
 
       <Table striped bordered hover>
       <thead>
@@ -21,20 +21,11 @@ function Schedule() {
         <tr>
           <td>6:00am-6:45am</td>
           <td>6:00am-6:45am</td>
-          <td>Otto</td>
+          <td>Every 1st and 3rd Sunday of the month, depending on holidays.</td>
        
         </tr>
-        <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td colSpan={2}>Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
+      
+     
       </tbody>
     </Table>
 
