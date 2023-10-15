@@ -33,7 +33,7 @@ function Navigation() {
             <NavDropdown title="Media" id="basic-nav-dropdown">
               <NavDropdown.Item href="/Video">Video</NavDropdown.Item>
               <NavDropdown.Item href="/Pics">
-              Pictues
+              Pictures
               </NavDropdown.Item>
               <NavDropdown.Item href="/Blog">Blog</NavDropdown.Item>
             </NavDropdown>
