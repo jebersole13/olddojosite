@@ -9,9 +9,9 @@ function Footer() {
          <br />
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><i class='bx bxl-youtube bx-border-circle  bx-md' id="socials" ></i></a>
      
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><i class='bx bxl-twitter bx-border-circle  bx-md' id="socials" ></i></a>
+      <a href="https://www.youtube.com/channel/UCTK-5tkQb7RztEofIadUvyw"><i class='bx bxl-twitter bx-border-circle  bx-md' id="socials" ></i></a>
     
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><i class='bx bxl-instagram bx-border-circle  bx-md' id="socials" ></i></a>
+      <a href="https://www.instagram.com/kotekankarate2523/"><i class='bx bxl-instagram bx-border-circle  bx-md' id="socials" ></i></a>
    
           </p>
                
