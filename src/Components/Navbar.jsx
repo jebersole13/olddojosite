@@ -21,8 +21,8 @@ function Navigation() {
           <Nav className="me-auto">
   
             <NavDropdown title="About" id="basic-nav-dropdown">
-              <NavDropdown.Item > <a href="./Ryukyu">Ryukyu Kempo</a> </NavDropdown.Item>
-              <NavDropdown.Item href="/Kobudo">
+              <NavDropdown.Item href="../Ryukyu">Ryukyu Kempo</NavDropdown.Item>
+              <NavDropdown.Item href="../Kobudo">
            Kobudo
               </NavDropdown.Item>
               <NavDropdown.Item href="./Bogu">Bogu Kumite</NavDropdown.Item>
