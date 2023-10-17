@@ -29,7 +29,7 @@ function Navigation() {
               <NavDropdown.Item href="/Arnis">Arnis</NavDropdown.Item>
               <NavDropdown.Item href="/Instructor">Instructor</NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/Schedule">Schedule</Nav.Link>
+            <Nav.Link href="Schedule">Schedule</Nav.Link>
             <NavDropdown title="Media" id="basic-nav-dropdown">
               <NavDropdown.Item href="/Video">Video</NavDropdown.Item>
               <NavDropdown.Item href="/Pics">
