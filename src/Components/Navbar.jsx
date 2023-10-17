@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import{Link} from 'react-router-dom'
+
 
 
 function Navigation() {
@@ -21,7 +21,7 @@ function Navigation() {
           <Nav className="me-auto">
   
             <NavDropdown title="About" id="basic-nav-dropdown">
-              <NavDropdown.Item > <Link to='./Ryukyu' >Ryukyu Kempo</Link> </NavDropdown.Item>
+              <NavDropdown.Item > <a href="./Ryukyu">Ryukyu Kempo</a> </NavDropdown.Item>
               <NavDropdown.Item href="/Kobudo">
            Kobudo
               </NavDropdown.Item>
