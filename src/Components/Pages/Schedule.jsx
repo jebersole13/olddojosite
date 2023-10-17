@@ -1,9 +1,14 @@
 import React from 'react'
 import Table from 'react-bootstrap/Table';
+import { motion } from "framer-motion"
 
 function Schedule() {
   return (
-    <div>
+    <motion.div
+    initial={{ opacity: 0, scale: 0.5 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 0.5 }}
+    >
       <h1>Class Schedule</h1>
       <h3>Open free zoom classes</h3>
       <h5>All classes are listed in JPN time. Please check your local time.</h5>
@@ -30,7 +35,7 @@ function Schedule() {
     </Table>
 
     <h5>For one on one or group lessons, please <a href='./Contact'>Contact</a> us for more information.</h5>
-    </div>
+    </motion.div>
   )
 }
 

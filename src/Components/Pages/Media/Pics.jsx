@@ -1,8 +1,14 @@
 import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
+import { motion } from "framer-motion"
+
 function Pics() {
   return (
-    <div>
+    <motion.div
+    initial={{ opacity: 0, scale: 0.5 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 0.5 }}
+    >
       <Carousel>
         <Carousel.Item>
           <img src="manjifirstime.jpg" alt="manji" />
@@ -26,7 +32,7 @@ function Pics() {
         </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-    </div>
+    </motion.div>
   )
 }
 

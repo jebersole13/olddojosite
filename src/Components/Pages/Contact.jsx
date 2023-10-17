@@ -1,15 +1,19 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import React from 'react'
-
+import { motion } from "framer-motion"
 function Contact() {
-  return (
+  return ( 
+    <motion.div
+    initial={{ opacity: 0, scale: 0.5 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 0.5 }}
+    >
     <Form>
     <Form.Group className="mb-3" controlId="formBasicEmail">
       <Form.Label>Email address</Form.Label>
       <Form.Control type="email" placeholder="Enter email" />
       <Form.Text className="text-muted">
-       
       </Form.Text>
     </Form.Group>
 
@@ -24,7 +28,7 @@ function Contact() {
       Submit
     </Button>
   </Form>
-
+</motion.div>
   )
 }
 
