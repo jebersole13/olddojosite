@@ -23,17 +23,23 @@
   position: relative;
 }
 
-
-
-footer{
-  background-color: rgb(34, 29, 29);
-  color: beige;
-  text-align: center;
-  position:absolute;
+.footer {
+  position: static;
+  margin-top: auto; 
+  background-color: rgb(34, 29, 29); color: beige;  
   bottom:0;
   width:100%;
+  text-align: center;
+  }
+/*
+footer{
+ 
+ 
+  text-align: center;
+  position:absolute;
+
     
-}
+}*/
 
 .social-media a:hover{
   background: lightblue;
