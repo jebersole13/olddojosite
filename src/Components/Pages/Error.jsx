@@ -5,7 +5,7 @@ function Error() {
     <div>
       <h1>Wrong Page</h1>
       <h3>Sorry wrong time, wrong place</h3>
-      <button></button>
+      <img src="sendit.jpeg" alt="harshbrown" />
     </div>
   )
 }
