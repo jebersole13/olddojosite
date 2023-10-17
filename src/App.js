@@ -6,14 +6,15 @@ import Home from './Components/Pages/Home'
 import Contact from './Components/Pages/Contact'
 import Schedule from './Components/Pages/Schedule';
 import Arnis from './Components/Pages/About/Arnis';
-import Bogu from './Components/Pages/About/Bogu'
-import Instructor from './Components/Pages/About/Instructor'
-import Kobudo from './Components/Pages/About/Kobudo'
-import Ryukyu from './Components/Pages/About/Ryukyu'
-import Blog from './Components/Pages/Media/Blog'
-import Pics from './Components/Pages/Media/Pics'
-import Video from './Components/Pages/Media/Video'
-import './index.css'
+import Bogu from './Components/Pages/About/Bogu';
+import Instructor from './Components/Pages/About/Instructor';
+import Kobudo from './Components/Pages/About/Kobudo';
+import Ryukyu from './Components/Pages/About/Ryukyu';
+import Blog from './Components/Pages/Media/Blog';
+import Pics from './Components/Pages/Media/Pics';
+import Video from './Components/Pages/Media/Video';
+import Error from './Components/Pages/Error';
+import './index.css';
 
 
 
@@ -35,6 +36,7 @@ function App() {
     <Route path = '/Blog' element={<Blog/>}/>
     <Route path='/Pics' element={<Pics/>}/>
     <Route path ='/Video' element={<Video/>}/>
+    <Route path="*" element={<Error/>}/>
      </Routes>
      </AnimatePresence>
     <Footer/>
