@@ -5,7 +5,9 @@ function Kobudo() {
     <motion.div
     initial={{ opacity: 0, scale: 0.5 }}
     animate={{ opacity: 1, scale: 1 }}
-    transition={{ duration: 0.5 }}>
+    transition={{ duration: 0.5 }}
+    className='Kobudo'
+    >
 
       <h1>Kobudo</h1>
       <h1>古武道</h1>

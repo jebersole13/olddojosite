@@ -6,6 +6,7 @@ function Arnis() {
     initial={{ opacity: 0,  }}
     animate={{ opacity: 1,  }}
     transition={{ duration: 0.5 }}
+    className='Arnis'
     >
       <h1>Filipino Arnis</h1>
       <p>Though not an Okinawan Martial Art,Arnis is apart of our curriculum.</p>

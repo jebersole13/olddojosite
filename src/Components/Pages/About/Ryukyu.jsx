@@ -5,7 +5,9 @@ function Ryukyu() {
     <motion.div
     initial={{ opacity: 0, scale: 0.5 }}
     animate={{ opacity: 1, scale: 1 }}
-    transition={{ duration: 0.5 }}>
+    transition={{ duration: 0.5 }}
+    className='Ryukyu'
+    >
 
     <h1>Ryukyu Kempo</h1>
     <h1>琉球拳法</h1>

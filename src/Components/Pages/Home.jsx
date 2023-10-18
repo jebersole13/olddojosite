@@ -6,6 +6,8 @@ function Home() {
     initial={{ opacity: 0.2 }}
     animate={{ opacity: 1 }}
     transition={{ duration: 0.5 }}
+
+    className='Home'
     >
     <h1>Welcome!</h1>  
 

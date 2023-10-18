@@ -8,6 +8,8 @@ function Schedule() {
     initial={{ opacity: 0, scale: 0.5 }}
     animate={{ opacity: 1, scale: 1 }}
     transition={{ duration: 0.5 }}
+
+    className='Schedule'
     >
       <h1>Class Schedule</h1>
       <h3>Open free zoom classes</h3>

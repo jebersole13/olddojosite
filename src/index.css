@@ -23,6 +23,25 @@
   position: relative;
 }
 
+.Home{
+  background: antiquewhite;
+}
+.Schedule{
+  background: black;
+}
+.Ryukyu{
+  background: rgb(202, 231, 243);
+}
+.Kobudo{
+  background: burlywood;
+}
+.Bogu{
+  background: linear-gradient(270deg,white 55%, black 100% );
+}
+
+.Arnis{
+  background: rgb(212, 186, 186);
+}
 .footer {
   position: static;
   margin-top: auto; 
