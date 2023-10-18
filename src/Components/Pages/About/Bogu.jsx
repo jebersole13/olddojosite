@@ -10,7 +10,7 @@ function Bogu() {
       <h1>Bogu Kumite</h1>
       <h2>防具組み手</h2>
       <p>As part of our Karate curriculum, we include full contact, protected sparring, or Bogu Kumite in Japanese.</p>
-      <p>Bogu kumite is give students a real feeling of hard, fast fighting in the savest way possible.</p>
+      <p>Bogu kumite is a practice that gives students real feeling of hard, fast fighting in the savest way possible.</p>
       <p>Though it can be intimidating at first, this is a skill that tests, refines, and perfects the basics learned from day one.</p>
       <p>Gear up and go!</p>
  

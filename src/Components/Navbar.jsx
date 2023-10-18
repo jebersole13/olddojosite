@@ -6,6 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Navigation() {
   return (
+    <nav>
     <Navbar >
       <Container >
         <Navbar.Brand href="/">     <img
@@ -41,6 +42,7 @@ function Navigation() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
+    </nav>
   );
 }
 

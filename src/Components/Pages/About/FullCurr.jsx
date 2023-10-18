@@ -2,6 +2,7 @@
 
 function FullCur(){
     <div>
+        
 
     </div>
 }
