@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Navigation() {
   return (
-    <Navbar className='.bg-dark.bg-gradient'>
+    <Navbar className='bg'>
       <Container >
         <Navbar.Brand href="/">     <img
               src="/ktklogo.png"
