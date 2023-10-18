@@ -48,6 +48,6 @@ footer{
 }
     
 
-nav{
+Container{
   background-color: linear-gradient(to right, red , yellow, skyblue);
 }
