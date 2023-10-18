@@ -47,4 +47,7 @@ footer{
  box-shadow: 0 0 5rem;
 }
     
-
+.bg-dark.bg-gradient{
+  background: rgb(25,13,231);
+  background: linear-gradient(90deg, rgba(25,13,231,1) 0%, rgba(251,252,17,1) 35%, rgba(215,40,14,1) 100%);
+}
