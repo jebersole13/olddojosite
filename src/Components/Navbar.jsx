@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Navigation() {
   return (
-    <Navbar className='bg-success p-2 text-white' >
+    <Navbar >
       <Container >
         <Navbar.Brand href="/">     <img
               src="/ktklogo.png"
