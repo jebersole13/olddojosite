@@ -13,7 +13,7 @@ function Schedule() {
       <h3>Open free zoom classes</h3>
       <h5>All classes are listed in JPN time. Please check your local time.</h5>
 
-      <Table striped bordered hover>
+      <Table className='schedule' striped bordered hover >
       <thead>
         <tr>
 
