@@ -2,6 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import React from 'react'
 import { motion } from "framer-motion"
+import './Contact.css'
 function Contact() {
   return ( 
     <motion.div
