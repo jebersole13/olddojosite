@@ -22,6 +22,7 @@
   width: 100%;
   position: relative;
   background: rgba(245, 245, 245, 0.349);
+  overflow: hidden;
 }
 
 
@@ -32,7 +33,7 @@
   margin: auto;
   max-height: 500px;
   max-width: 600px;
-  overflow: hidden;
+
 }
 .footer {
   position: static;
@@ -83,17 +84,17 @@ max-width:33.55%;
 }
 
 #jonManji{
-  overflow: hidden;
+ 
   max-height: 100%;
   max-width: 150%;
 }
 #testing2007{
-  overflow: hidden;
+ 
   max-height: 100%;
   max-width: 150%;
 }
 #campPhoto{
-  overflow: hidden;
+ 
   max-height: 100%;
   max-width: 150%;
 }
