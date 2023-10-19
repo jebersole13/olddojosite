@@ -32,7 +32,7 @@ function Contact() {
         Submit
       </Button>
     </Form>
-
+<br />
     <h6>We will get back to you within 48 hours of your message, if not sooner.</h6>
 </motion.div>
   )
