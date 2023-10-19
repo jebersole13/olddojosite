@@ -18,7 +18,9 @@
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  
+  display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 .contactButton{
