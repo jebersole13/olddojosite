@@ -84,10 +84,16 @@ max-width:33.55%;
 
 #jonManji{
   overflow: hidden;
+  max-height: 100%;
+  max-width: 150%;
 }
 #testing2007{
   overflow: hidden;
+  max-height: 100%;
+  max-width: 150%;
 }
 #campPhoto{
   overflow: hidden;
+  max-height: 100%;
+  max-width: 150%;
 }
