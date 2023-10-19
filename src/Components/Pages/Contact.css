@@ -1,12 +1,4 @@
-.Contact{
-     text-align: center;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  width: 100%;
-  position: relative;
-}
+
 
 .contactForm{
     border-radius: 5px;
