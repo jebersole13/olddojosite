@@ -13,7 +13,7 @@ function Pics() {
       <h1>Pictures</h1>
       <Carousel>
         <Carousel.Item>
-          <img src="manjifirstime.jpg" alt="manji" max-width='1000' max-height='800' />
+          <img src="manjifirstime.jpg" alt="manji" max-width='800' max-height='800' />
           <Carousel.Caption>
           <p>In Okinawa, learning the Manji Sai.</p>
         </Carousel.Caption>
@@ -25,7 +25,7 @@ function Pics() {
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src="olddays.jpg" alt="camp" max-width='1000' max-height='800'/>
+          <img src="olddays.jpg" alt="camp" max-width='800' max-height='800'/>
           <Carousel.Caption>
           <p>Karate camp, dazzed and confused</p>
         </Carousel.Caption>
