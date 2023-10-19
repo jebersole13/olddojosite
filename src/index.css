@@ -24,7 +24,9 @@
   background: rgba(245, 245, 245, 0.349);
   overflow: hidden;
 }
-
+@viewport {
+  viewport-fit: cover;
+}
 
 .Video{
   margin-top: 20px;
