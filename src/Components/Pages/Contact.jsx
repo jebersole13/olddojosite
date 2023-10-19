@@ -10,6 +10,7 @@ function Contact() {
     animate={{ opacity: 1, scale: 1 }}
     transition={{ duration: 0.5 }}
     className='Contact' >
+      <h1>Contact us!</h1>
       <Form className='contactForm'>
       <Form.Group className="mb-3" controlId="formBasicName">
         <Form.Label>First Name</Form.Label>
@@ -31,6 +32,8 @@ function Contact() {
         Submit
       </Button>
     </Form>
+
+    <h6>We will get back to you within 48 hours of your message, if not sooner.</h6>
 </motion.div>
   )
 }
