@@ -48,6 +48,20 @@
 .Arnis{
   background: rgb(212, 186, 186);
 }
+
+.Instructor{
+  background: linear-gradient(270deg,rgb(69, 60, 151) 55%, white 100% );
+};
+
+.Video{
+background: lightgray;
+}
+.Pic{
+  background: rgba(238, 103, 103, 0.075);
+}
+.Blog{
+  background: rgba(255, 182, 193, 0.356);
+}
 .footer {
   position: static;
   margin-top: auto; 
