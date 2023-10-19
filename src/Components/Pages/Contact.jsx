@@ -25,6 +25,10 @@ function Contact() {
         <Form.Label>Email</Form.Label>
         <Form.Control type="email" placeholder="Email" />
       </Form.Group>
+      <Form.Group className="mb-3" controlId="formBasicMessage">
+        <Form.Label>Message</Form.Label>
+        <Form.Control as="textarea" rows={3} placeholder="Please write your message here."/>
+      </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicCheckbox">
         <Form.Check type="checkbox" label="Check if new" />
       </Form.Group>

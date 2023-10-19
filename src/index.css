@@ -71,7 +71,7 @@
 }
 .Bogu{
   background: linear-gradient(270deg,white 55%, black 100% );
-  color: whitesmoke;
+  
   text-align: center;
   min-height: 100vh;
   display: flex;
