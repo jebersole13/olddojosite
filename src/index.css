@@ -25,6 +25,13 @@
 
 .Home{
   background: antiquewhite;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
 #shisasasa{
@@ -33,34 +40,99 @@
 }
 .Schedule{
   background: rgb(122, 109, 109);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 .Ryukyu{
   color: oldlace;
   background: rgb(202, 231, 243);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 .Kobudo{
   background: burlywood;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 .Bogu{
   background: linear-gradient(270deg,white 55%, black 100% );
+  color: whitesmoke;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
 .Arnis{
   background: rgb(212, 186, 186);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
 .Instructor{
   background: linear-gradient(270deg,rgb(69, 60, 151) 55%, white 100% );
+  color: black;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 };
 
 .Video{
 background: lightgray;
+text-align: center;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+height: 100%;
+width: 100%;
+position: relative;
 }
 .Pic{
   background: rgba(238, 103, 103, 0.075);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 .Blog{
   background: rgba(255, 182, 193, 0.356);
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 .footer {
   position: static;
