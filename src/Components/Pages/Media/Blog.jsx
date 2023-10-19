@@ -10,6 +10,16 @@ function Blog() {
     className='Blog'
     >
       <h1>Blog</h1>
+      <Container>
+        <p>This is a test</p>
+      </Container>
+      <Container>
+        <p>Another test</p>
+      </Container>
+
+      <Container>
+        <p>One more for good measure</p>
+      </Container>
     </motion.div>
   )
 }
