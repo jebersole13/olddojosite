@@ -10,6 +10,7 @@ function Pics() {
     transition={{ duration: 0.5 }}
     className='Pics'
     >
+      <h1>Pictures</h1>
       <Carousel>
         <Carousel.Item>
           <img src="manjifirstime.jpg" alt="manji" />

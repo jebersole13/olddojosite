@@ -9,8 +9,7 @@ function Blog() {
     transition={{ duration: 0.5 }}
     className='Blog'
     >
-      <h5>Star date 5414</h5>
-      <p>We've stopped by the Riasa system and are investigating what happened to Jordy</p>
+      <h1>Blog</h1>
     </motion.div>
   )
 }

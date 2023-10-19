@@ -12,11 +12,12 @@ function Contact() {
     className='Contact' >
       <Form className='contactForm'>
       <Form.Group className="mb-3" controlId="formBasicName">
-        <Form.Label>Full Name</Form.Label>
-        <Form.Control type="name" placeholder="Full name" />
-        <Form.Text className="text-muted">
-         Last name first, first name last.
-        </Form.Text>
+        <Form.Label>First Name</Form.Label>
+        <Form.Control type="name" placeholder="First name" />
+      </Form.Group>
+      <Form.Group className="mb-3" controlId="formBasicName">
+        <Form.Label>Last Name</Form.Label>
+        <Form.Control type="name" placeholder="Last name" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Email</Form.Label>
