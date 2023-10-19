@@ -11,7 +11,7 @@ function Home() {
     >
     <h1>Welcome!</h1>  
 
-      <img src="shisap.png" alt="shishi" id='shisasasa' />
+     /* <img src="shisap.png" alt="shishi" id='shisasasa' />*/
       </motion.div>
   )
 }
