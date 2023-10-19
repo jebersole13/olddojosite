@@ -138,3 +138,12 @@ max-width:33.55%;
   min-width: 75%;
   width: 100%;
 }
+
+#ouch{
+  min-height: 50%;
+  max-height: 100%;
+  height: 100%;
+  max-width: 150%;
+  min-width: 75%;
+  width: 100%;
+}
