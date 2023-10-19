@@ -10,8 +10,11 @@ function Home() {
     className='Home'
     >
     <h1>Welcome!</h1>  
+    <h3> </h3>
 
-      <img src="shisap.png" alt="shishi" id='shisasasa' />
+
+{/* <img src="shisap.png" alt="shishi" id='shisasasa' />*/}
+     
       </motion.div>
   )
 }
