@@ -71,3 +71,10 @@ footer{
  
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 52%, rgba(242,221,23,1) 100%);
 }
+
+#demo{
+  float: rights;
+}
+#demo1{
+float: left;
+}
