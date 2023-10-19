@@ -13,9 +13,9 @@ function Instructor() {
       <p>Jon Ebersole, born in Philadelphia,USA, now living in Gifu, Japan, has 20 years of martial arts experience.</p>
       <p>Primarily focused on Karate, with some Filipino Arnis, Taichi, and Kyudo experience as well, he is dedicated to continuing both martial arts training and facilitating the best classes possible for students. </p>
       <p>A teacher by trade, he integrates all of his experience into training for holistic, well rounded training.</p>
-         <img src="olddays.jpg" alt="goodole" />
-         <img src="demo.jpg" alt="demon" />
-         <img src="demo1.jpg" alt="stration" />
+  
+         <img src="demo.jpg" alt="demon" id='demo' />
+         <img src="demo1.jpg" alt="stration" id='demo1' />
     </motion.div>
   )
 }

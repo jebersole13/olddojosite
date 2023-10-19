@@ -21,14 +21,16 @@
   height: 100%;
   width: 100%;
   position: relative;
-  background: antiquewhite;
+  background: rgba(245, 245, 245, 0.349);
 }
 
 
-
+.Video{
+  margin-top: 20px;
+}
 #shisasasa{
   height: 500px;
-  width: 500px;
+  width: 600px;
 }
 .footer {
   position: static;
