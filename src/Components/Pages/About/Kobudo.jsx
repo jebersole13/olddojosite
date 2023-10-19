@@ -14,7 +14,7 @@ function Kobudo() {
 
       <p>Old Weapons training or Kobudo as it is referred to in Japanese, is part of our curriculum. </p>
       <p>There is a significant connection between empty hand and weapon techniques, so Kobudo fits well with study, as well as blended with Filipino Arnis </p>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/gQRIjui98Do?si=JXf6SX3jbTGSPHn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <img src="manji.jpg" alt="manji" />
     </motion.div>
   )
 }
