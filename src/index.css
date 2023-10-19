@@ -24,9 +24,7 @@
   background: rgba(245, 245, 245, 0.349);
   overflow: hidden;
 }
-@viewport {
-  viewport-fit: cover;
-}
+
 
 .Video{
   margin-top: 20px;
@@ -35,6 +33,11 @@
   margin: auto;
   max-height: 500px;
   max-width: 600px;
+  min-height: 250px;
+  min-width: 300%;
+  width: 300%;
+  height: 250%;
+
 
 }
 .footer {
@@ -87,16 +90,26 @@ max-width:33.55%;
 
 #jonManji{
  
+  min-height: 50%;
   max-height: 100%;
+  height: 50%;
   max-width: 150%;
+  min-width: 75%;
+  width: 75%;
 }
 #testing2007{
- 
+ min-height: 50%;
   max-height: 100%;
+  height: 50%;
   max-width: 150%;
+  min-width: 75%;
+  width: 75%;
 }
 #campPhoto{
- 
+  min-height: 50%;
   max-height: 100%;
+  height: 50%;
   max-width: 150%;
+  min-width: 75%;
+  width: 75%;
 }
