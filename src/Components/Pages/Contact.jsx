@@ -13,7 +13,7 @@ function Contact() {
     className='Contact'
 
     >
-      <Form>
+      <Form className='contactForm'>
       <Form.Group className="mb-3" controlId="formBasicName">
         <Form.Label>Full Name</Form.Label>
         <Form.Control type="name" placeholder="Full name" />
@@ -30,9 +30,7 @@ function Contact() {
         <Form.Label>Message</Form.Label>
         <Form.Control as="textarea" rows={3} placeholder="Please write your message here."/>
       </Form.Group>
-      <Form.Group className="mb-3" controlId="formBasicCheckbox">
-        <Form.Check type="checkbox" label="Check if new" />
-      </Form.Group>
+   
       <Button className='contactButton' variant="primary" type="submit">
         Submit
       </Button>
