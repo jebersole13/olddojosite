@@ -13,19 +13,19 @@ function Pics() {
       <h1>Pictures</h1>
       <Carousel>
         <Carousel.Item>
-          <img src="manjifirstime.jpg" alt="manji" width='100' height='100' />
+          <img src="manjifirstime.jpg" alt="manji" width='1000' height='1000' />
           <Carousel.Caption>
           <p>In Okinawa, learning the Manji Sai.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src="odlschool.jpg" alt="school" width='100' height='100'/>
+          <img src="odlschool.jpg" alt="school" width='1000' height='1000'/>
           <Carousel.Caption>  
           <p>Testing graduation, 2007, Eastern College.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src="olddays.jpg" alt="camp" width='100' height='100'/>
+          <img src="olddays.jpg" alt="camp" width='1000' height='1000'/>
           <Carousel.Caption>
           <p>Karate camp, dazzed and confused</p>
         </Carousel.Caption>
