@@ -9,11 +9,11 @@ function Home() {
 
     className='Home'
     >
-    <h1>Welcome!</h1>  
+    <h1>Welcome to our Dojo!</h1>  
+<h3>Kotekan Dojo serving Gifu prefecture, face to face classes, and online zoom.</h3>
 
 
-
-{/* <img src="shisap.png" alt="shishi" id='shisasasa' />*/}
+ <img src="shisap.png" alt="shishi" id='shisasasa' />
      
       </motion.div>
   )

@@ -9,10 +9,7 @@ function Contact() {
     initial={{ opacity: 0, scale: 0.5 }}
     animate={{ opacity: 1, scale: 1 }}
     transition={{ duration: 0.5 }}
-
-    className='Contact'
-
-    >
+    className='Contact' >
       <Form className='contactForm'>
       <Form.Group className="mb-3" controlId="formBasicName">
         <Form.Label>Full Name</Form.Label>
@@ -21,7 +18,6 @@ function Contact() {
          Last name first, first name last.
         </Form.Text>
       </Form.Group>
-
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Email</Form.Label>
         <Form.Control type="email" placeholder="Email" />
@@ -30,7 +26,6 @@ function Contact() {
         <Form.Label>Message</Form.Label>
         <Form.Control as="textarea" rows={3} placeholder="Please write your message here."/>
       </Form.Group>
-   
       <Button className='contactButton' variant="primary" type="submit">
         Submit
       </Button>

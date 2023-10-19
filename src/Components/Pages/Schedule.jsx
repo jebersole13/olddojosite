@@ -18,7 +18,6 @@ function Schedule() {
       <Table className='schedule' striped bordered hover >
       <thead>
         <tr>
-
           <th>Wednesday</th>
           <th>Friday</th>
           <th>Sunday</th>
@@ -29,10 +28,14 @@ function Schedule() {
           <td>6:00am-6:45am</td>
           <td>6:00am-6:45am</td>
           <td>Every 1st and 3rd Sunday of the month, depending on holidays.</td>
-       
         </tr>
-      
-     
+      </tbody>
+      <tbody>
+        <tr>
+          <td> Basic Karate work out, emphasis on fundamentals, depending on particpants, forms and sparring basics.</td>
+          <td>Basic work out, focusing on fundamentals with a focus on cardio-fitenss, and some crosstraining.</td>       
+          <td>Integrated training with other Karate teachers, students, and people from around with the world.</td>
+        </tr>
       </tbody>
     </Table>
 
