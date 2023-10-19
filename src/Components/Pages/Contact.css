@@ -3,12 +3,14 @@
 .contactForm{
     border-radius: 5px;
     background-color: #f2f2f2;
-    padding: 20px;
+    padding: 10px;
     max-width: 60%;
   border: 1px solid #ccc;
   box-sizing: border-box;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  display:flex;
+  justify-content: center;
+  margin-top: 20%;
+  margin-bottom: 20%;
 
 
 }
