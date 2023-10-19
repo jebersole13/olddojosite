@@ -30,6 +30,24 @@ function Pics() {
           <p>Karate camp, dazzed and confused</p>
         </Carousel.Caption>
         </Carousel.Item>
+        <Carousel.Item>
+          <img src="raulcer.jpg" alt="camp" id='raulCer' />
+          <Carousel.Caption>
+          <p>After a promotion with a senior and a good friend.</p>
+        </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img src="guyleandme.jpg" alt="camp" id='guyle' />
+          <Carousel.Caption>
+          <p>Photo with a friend gone, but not forgotten.</p>
+        </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img src="kobunis.jpg" alt="camp" id='kobuNis' />
+          <Carousel.Caption>
+          <p>End of a Kobudo and Arnis camp.</p>
+        </Carousel.Caption>
+        </Carousel.Item>
       </Carousel>
     </motion.div>
   )
