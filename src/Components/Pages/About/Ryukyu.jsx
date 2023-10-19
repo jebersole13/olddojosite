@@ -16,7 +16,7 @@ function Ryukyu() {
       A form of Karate from Okinawa that focuses on practicality, fitness, and overall wellbeing.
       Mixing aspects of full contact fighting, old school
     </p>
-     <img src="odlschool.jpg" alt="friends" />
+     <img src="tuite.jpg" alt="ouch" />
     </motion.div>
   )
 }
