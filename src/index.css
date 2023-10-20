@@ -174,3 +174,7 @@ max-width:33.55%;
   min-width: 75%;
   width:50%; 
 }
+
+.Video{
+  gap: 1rem;
+}
