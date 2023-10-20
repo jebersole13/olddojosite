@@ -48,7 +48,20 @@ function Pics() {
           <p>End of a Kobudo and Arnis camp.</p>
         </Carousel.Caption>
         </Carousel.Item>
+        <Carousel.Item>
+          <img src="hokamacam.jpg" alt="camp" id='camKama' />
+          <Carousel.Caption>
+          <p>Training in Okinawa.</p>
+        </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img src="allgoood.jpg" alt="camp" id='thumbsUp' />
+          <Carousel.Caption>
+          <p>Got to take what you can give.</p>
+        </Carousel.Caption>
+        </Carousel.Item>
       </Carousel>
+      
     </motion.div>
   )
 }

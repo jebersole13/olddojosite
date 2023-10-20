@@ -10,7 +10,7 @@ function Home() {
     className='Home'
     >
     <h1>Welcome to our Dojo!</h1>  
-<h3>Serving Gifu prefecture, with face to face classes, and online via Zoom.</h3>
+<h3>Serving Gifu prefecture, with personal, group, and online classes via Zoom.</h3>
 
 
  <img src="shisap.png" alt="shishi" id='shisasasa' />

@@ -9,10 +9,12 @@ function Arnis() {
     className='Arnis'
     >
       <h1>Filipino Arnis</h1>
-      <p>Though not an Okinawan Martial Art,Arnis is apart of our curriculum.</p>
-      <p>It has many compatiable and identical principals both with the Ryukyu Kempo and the Kobudo we practice.</p>
+      <p>Arnis is a Filipnio Martial art focused on the use of the baton, sword,knife, and empty hand.</p>
+      <p>Though not an Okinawan Martial Art,Arnis is apart of our curriculum. It has many compatiable and identical principals both with the Ryukyu Kempo and the Kobudo we practice.</p>
       <p>Practicing Arnis can be taken as a separate martial art entirely, or as a compliment to the Karate studied.</p>
       <p>Grab a stick and give it a try.</p>
+
+      <img src="arnis.png" alt="kali" id='eskrima' />
      
     </motion.div>
   )

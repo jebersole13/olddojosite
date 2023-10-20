@@ -147,3 +147,30 @@ max-width:33.55%;
   min-width: 75%;
   width: 50%;
 }
+
+#eskrima{
+  min-height: 50%;
+  max-height: 100%;
+  height: 50%;
+  max-width: 150%;
+  min-width: 75%;
+  width: 50%;
+}
+
+#camKama{
+  min-height: 50%;
+  max-height: 100%;
+  height: 50%;
+  max-width: 150%;
+  min-width: 75%;
+  width:50%; 
+}
+
+#thumbsUp{
+  min-height: 50%;
+  max-height: 100%;
+  height: 50%;
+  max-width: 150%;
+  min-width: 75%;
+  width:50%; 
+}
