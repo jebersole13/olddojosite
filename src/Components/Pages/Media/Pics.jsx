@@ -55,7 +55,7 @@ function Pics() {
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src="allgoood.jpg" alt="camp" id='thumbsUp' />
+          <img src="allgood.jpg" alt="camp" id='thumbsUp' />
           <Carousel.Caption>
           <p>Got to take what you can give.</p>
         </Carousel.Caption>
