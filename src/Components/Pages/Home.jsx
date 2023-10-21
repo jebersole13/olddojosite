@@ -13,7 +13,7 @@ function Home() {
 <h3>Serving Gifu prefecture, with personal, group, and online classes via Zoom.</h3>
 
 
- <img src="shisap.png" alt="shishi" id='shisasasa' />
+ <img src="newshisa.png" alt="shishi" id='shisasasa' />
      
       </motion.div>
   )
