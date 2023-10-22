@@ -9,7 +9,7 @@ function Contact() {
     transition={{ duration: 0.5 }}
     className='Contact' >
       <h1>Contact us!</h1>
-      <form name='contact' method='POST' data-netlify='true' onSubmit='submit'   data-netlify-honeypot="bot-field" 
+      <form name='contact' method='POST' data-netlify='true' onSubmit='submit'   
       data-netlify-recaptcha="true" className='contactForm' action="/thank-you">
         <div >
         <input type="hidden" name="form-name" value="form" />
