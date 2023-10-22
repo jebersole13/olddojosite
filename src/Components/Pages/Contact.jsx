@@ -15,15 +15,15 @@ function Contact() {
       <Form className='contactForm' >
         <input type="hidden" name='form-name' value='contact' />
       <Form.Group className="mb-3" controlId="formBasicName">
-        <Form.Label>First Name <input type="text" name="first-name" /> </Form.Label>
+        <Form.Label>First Name  </Form.Label>
         <Form.Control type="name" placeholder="First name" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicName">
-        <Form.Label>Last Name <input type="text" name="last-name" /></Form.Label>
+        <Form.Label>Last Name </Form.Label>
         <Form.Control type="name" placeholder="Last name" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicEmail">
-        <Form.Label>Email<input type="text" name="email" /> </Form.Label>
+        <Form.Label>Email </Form.Label>
         <Form.Control type="email" placeholder="Email" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicMessage">
