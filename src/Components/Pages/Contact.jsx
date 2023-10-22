@@ -9,9 +9,7 @@ function Contact() {
     transition={{ duration: 0.5 }}
     className='Contact' >
       <h1>Contact us!</h1>
-      <form name='contact' method='POST' data-netlify='true' onSubmit='submit' className='contactForm'>
-    
-   
+      <form name='contact' method='POST' data-netlify='true'  className='contactForm'>
         <div >
           <label className="form-label" htmlFor="firstName">
           First Name
