@@ -11,7 +11,7 @@ function Contact() {
     transition={{ duration: 0.5 }}
     className='Contact' >
       <h1>Contact us!</h1>
-      <Form className='contactForm' name='contact' method='POST' data-netlify='true'>
+      <Form className='contactForm' name='contact' method='POST' data-netlify='true' onSubmit='submit'>
       <Form.Group className="mb-3" controlId="formBasicName">
         <Form.Label>First Name</Form.Label>
         <Form.Control type="name" placeholder="First name" />
