@@ -12,7 +12,7 @@ function Contact() {
       <form name='contact' method='POST' data-netlify='true' onSubmit='submit'   data-netlify-honeypot="bot-field" 
       data-netlify-recaptcha="true" className='contactForm' action="/thank-you">
         <div >
-        <input type="hidden" name="form-name" value="value_of_name_attribute_in_form_tag" />
+        <input type="hidden" name="form-name" value="form" />
           <label className="form-label" htmlFor="firstName">
           First Name
           </label>
