@@ -12,6 +12,7 @@ function Contact() {
     className='Contact' >
       <h1>Contact us!</h1>
       <Form className='contactForm' name='contact' method='POST' data-netlify='true' onSubmit='submit'>
+        <input type="hidden" name='form-name' value='contact' />
       <Form.Group className="mb-3" controlId="formBasicName">
         <Form.Label>First Name</Form.Label>
         <Form.Control type="name" placeholder="First name" />
