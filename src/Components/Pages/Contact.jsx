@@ -10,9 +10,9 @@ function Contact() {
     className='Contact' >
       <h1>Contact us!</h1>
       <form name='contact' method='POST' data-netlify='true' onSubmit='submit' 
-      data-netlify-recaptcha="true" className='contactForm'>
+      data-netlify-recaptcha="true" className='contactForm' action="/thank-you">
         <div >
-        <input type="hidden" name="form-name" value="Contact" />
+        <input type="hidden" name="form-name" value="value_of_name_attribute_in_form_tag" />
           <label className="form-label" htmlFor="firstName">
           First Name
           </label>
