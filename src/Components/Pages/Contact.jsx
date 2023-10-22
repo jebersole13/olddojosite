@@ -9,7 +9,8 @@ function Contact() {
     transition={{ duration: 0.5 }}
     className='Contact' >
       <h1>Contact us!</h1>
-      <form name='contact' method='POST' data-netlify='true' onSubmit='submit' className='form'>
+      <form name='contact' method='POST' data-netlify='true' onSubmit='submit' className='contactForm'>
+      <input type="hidden" name="form-name" value="the-name-of-the-html-form" />
    
         <div >
           <label className="form-label" htmlFor="firstName">
@@ -35,8 +36,8 @@ function Contact() {
           </label>
           <textarea className="form-control" id="message" required />
         </div>
-        <button className="btn btn-danger" type="submit">
-        
+        <button className="contactButton" type="submit">
+       Submit
         </button>
       
     </form>
