@@ -9,10 +9,10 @@ function Contact() {
     transition={{ duration: 0.5 }}
     className='Contact' >
       <h1>Contact us!</h1>
-      <form name='contact' method='POST' data-netlify='true' onSubmit='submit'   
+      <form name='contact' method='POST' netlify onSubmit='submit'   
       data-netlify-recaptcha="true" className='contactForm' action="/thank-you">
         <div >
-        <input type="hidden" name="form-name" value="form" />
+        <input type="hidden" name="form-name" value="contact" />
           <label className="form-label" htmlFor="firstName">
           First Name
           </label>
