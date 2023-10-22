@@ -12,22 +12,22 @@ function Contact() {
       <form name='contact' method='POST' data-netlify='true' onSubmit='submit' className='form'>
    
         <div >
-          <label className="form-label" htmlFor="name">
-            Name
+          <label className="form-label" htmlFor="firstName">
+          First Name
           </label>
-          <input className="form-control" type="text" id="name" required />
+          <input className="form-control" type="text" name='firstName' required />
         </div>
         <div >
-          <label className="form-label" htmlFor="phone">
-            Phone
+          <label className="form-label" htmlFor="lastName">
+           Last Name
           </label>
-          <input className="form-control" type="phone" id="phone" required />
+          <input className="form-control" type="text" name='lastName' required />
         </div>
         <div >
           <label className="form-label" htmlFor="email">
             Email
           </label>
-          <input className="form-control" type="email" id="email" required />
+          <input className="form-control" type="email" name="email" required />
         </div>
         <div >
           <label className="form-label" htmlFor="message">
