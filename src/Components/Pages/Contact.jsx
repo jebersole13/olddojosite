@@ -34,7 +34,7 @@ function Contact() {
           <label className="form-label" htmlFor="message">
             Message
           </label>
-          <textarea className="form-control" id="message" required />
+          <textarea className="form-control" id="message" name='message' required />
         </div>
         <button className="contactButton" type="submit">
        Submit
