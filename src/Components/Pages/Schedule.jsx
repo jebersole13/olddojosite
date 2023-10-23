@@ -33,7 +33,7 @@ function Schedule() {
       <tbody>
         <tr>
           <td> Basic Karate work out, emphasis on fundamentals, forms ,and sparring drills.</td>
-          <td>Basic work out, focusing on fundamentals with a focus on cardio-fitenss.</td>       
+          <td>Basic work out, focusing on fundamentals with a focus on cardio-fitness.</td>       
           <td>Integrated training with other Karate teachers, students, and people from around the world.</td>
         </tr>
       </tbody>
