@@ -13,8 +13,8 @@ function Ryukyu() {
     <h1>琉球拳法</h1>
   
     <p>Ryukyu Kempo is our dojo`s primary martial art.
- A form of Karate from Okinawa that focuses on practicality, fitness, and overall well being. Mixing aspects of full contact fighting, old school street defense, and classical weapons, Ryukyu Kempo a well rounded martial art anyone can participate in.  </p>
- <p>Come give it a try!</p>
+ A form of Karate from Okinawa that focuses on practicality, fitness, and overall well being. Mixing aspects of full contact fighting, old school street defense, and classical weapons, Ryukyu Kempo is a well rounded martial art anyone can participate in.  </p>
+
      <img src="tuite.jpg" alt="ouch" id='ouch'/>
      <img src="ryukyukanji.jpg" alt="ouch" id='kanjiRyu'/>
     </motion.div>
