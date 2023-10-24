@@ -12,7 +12,7 @@ function Schedule() {
     className='Schedule'
     >
       <h1>Class Schedule</h1>
-      <h3>Open free zoom classes</h3>
+      <h3>Free online classes</h3>
       <h5>All classes are listed in Japan time. Check your local time.</h5>
 
       <Table className='schedule' striped bordered hover >
@@ -38,8 +38,10 @@ function Schedule() {
         </tr>
       </tbody>
     </Table>
-
-    <h5>For one on one or group lessons, please <a href='./Contact'>Contact</a> us for more information.</h5>
+    <br />
+    <h5>Please register for these classes <a href='./Contact'>here</a> to receive link before class.</h5>
+    <br />
+    <h5>For in person personal or group lessons, please <a href='./Contact'>Contact</a> us for more information.</h5>
     </motion.div>
   )
 }
