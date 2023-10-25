@@ -5,7 +5,7 @@ function Footer() {
       <footer class="py-2 bg-dark">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Copyright &copy; Kotekan Karate 2020
+            Copyright &copy; Kotekan Karate 2023
          <br />
       <a href="https://www.youtube.com/channel/UCTK-5tkQb7RztEofIadUvyw"><i class='bx bxl-youtube bx-border-circle  bx-md' id="socials" ></i></a>
      

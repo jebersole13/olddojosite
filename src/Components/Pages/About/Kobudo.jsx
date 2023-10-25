@@ -14,8 +14,8 @@ function Kobudo() {
 
       <p>Old weapons training or Kobudo, is part of our school's curriculum. 
       We study both connection between empty hand and weapon techniques, and the practical techniques of the weapons themselves.</p>
-    <img src="sai.jpg" alt="saing" />
-    <img src="kobudo.jpg" alt="maceplusmar" />
+    <img src="sai.jpg" alt="saing" id='saing' />
+    <img src="kobudo.jpg" alt="maceplusmar" id='maceplumar' />
     </motion.div>
   )
 }

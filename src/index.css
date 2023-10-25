@@ -188,6 +188,23 @@ max-width:30.55%;
   width:50%; 
 }
 
+#saing{
+   min-height: 50%;
+  max-height: 100%;
+  height: 50%;
+  max-width: 150%;
+  min-width: 75%;
+  width:50%; 
+}
+
+#maceplumar{
+   min-height: 50%;
+  max-height: 100%;
+  height: 50%;
+  max-width: 150%;
+  min-width: 75%;
+  width:50%; 
+}
 .Video{
   gap: 1rem;
 }
