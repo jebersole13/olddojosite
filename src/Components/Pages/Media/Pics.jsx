@@ -15,49 +15,49 @@ function Pics() {
         <Carousel.Item>
           <img src="manjifirstime.jpg" alt="manji" id='jonManji'  />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>In Okinawa, learning the Manji Sai.</p>
+          <p className='text-dark'>In Okinawa, learning the Manji Sai.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="odlschool.jpg" alt="school" id='testing2007'/>
           <Carousel.Caption>  
-          <p className='text-light bg-dark'>Testing graduation, 2007, Eastern College.</p>
+          <p className='text-dark'>Testing graduation, 2007, Eastern College.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="olddays.jpg" alt="camp" id='campPhoto' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>Karate camp, dazzed and confused</p>
+          <p className='text-dark'>Karate camp, dazzed and confused</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="raulcer.jpg" alt="camp" id='raulCer' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>After a promotion with a senior and a good friend.</p>
+          <p className='text-dark'>After a promotion with a senior and a good friend.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="guyleandme.jpg" alt="camp" id='guyle' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>Photo with a friend gone, but not forgotten.</p>
+          <p className='text-dark'>Photo with a friend gone, but not forgotten.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="kobunis.jpg" alt="camp" id='kobuNis' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>End of a Kobudo and Arnis camp.</p>
+          <p className='text-dark'>End of a Kobudo and Arnis camp.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="hokamacam.jpg" alt="camp" id='camKama' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>Training in Okinawa.</p>
+          <p className='text-dark'>Training in Okinawa.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src="allgood.jpg" alt="camp" id='thumbsUp' />
           <Carousel.Caption>
-          <p className='text-light bg-dark'>Got to take what you can give.</p>
+          <p className='text-dark'>Got to take what you can give.</p>
         </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
