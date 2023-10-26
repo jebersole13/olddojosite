@@ -20,7 +20,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
   
-            <NavDropdown  title="About" id="basic-nav-dropdown" className='text-primary'  >
+            <NavDropdown  title="About" id="basic-nav-dropdown"  >
               <NavDropdown.Item className='text-primary' href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
               <NavDropdown.Item className='text-primary' href="/Kobudo">
            Kobudo
