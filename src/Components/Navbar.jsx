@@ -36,7 +36,7 @@ function Navigation() {
               Pictures
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="Contact">Contact</Nav.Link>
+            <Nav.Link className='text-primary' href="Contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
