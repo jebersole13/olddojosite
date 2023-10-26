@@ -219,7 +219,7 @@ max-width:30.55%;
   width: 50%;
 }
 
-.carousel { overflow: hidden; padding-bottom: 1rem; }
+.carousel { padding-bottom: 3rem; }
 .carousel-caption { top: 100%; }
 .carousel-inner { overflow: visible; }
-.carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 1rem; }
+.carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 3rem; }
