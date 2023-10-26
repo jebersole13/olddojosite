@@ -20,17 +20,17 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
   
-            <NavDropdown title="About" id="basic-nav-dropdown"    data-bs-theme="light">
-              <NavDropdown.Item href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
-              <NavDropdown.Item href="/Kobudo">
+            <NavDropdown className='text-primary' title="About" id="basic-nav-dropdown"   >
+              <NavDropdown.Item className='text-primary' href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
+              <NavDropdown.Item className='text-primary' href="/Kobudo">
            Kobudo
               </NavDropdown.Item>
-              <NavDropdown.Item href="/Bogu">Bogu Kumite</NavDropdown.Item>
-              <NavDropdown.Item href="/Arnis">Arnis</NavDropdown.Item>
-              <NavDropdown.Item href="/Instructor">Instructor</NavDropdown.Item>
+              <NavDropdown.Item className='text-primary' href="/Bogu">Bogu Kumite</NavDropdown.Item>
+              <NavDropdown.Item className='text-primary' href="/Arnis">Arnis</NavDropdown.Item>
+              <NavDropdown.Item className='text-primary' href="/Instructor">Instructor</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="Schedule">Schedule</Nav.Link>
-            <NavDropdown title="Media" id="basic-nav-dropdown"  data-bs-theme="dark">
+            <NavDropdown className='text-primary' title="Media" id="basic-nav-dropdown"  data-bs-theme="dark">
               <NavDropdown.Item href="/Video">Video</NavDropdown.Item>
               <NavDropdown.Item href="/Pics">
               Pictures
