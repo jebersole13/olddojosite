@@ -20,7 +20,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
   
-            <NavDropdown className='text-primary' title="About" id="basic-nav-dropdown"   >
+            <NavDropdown  title="About" id="basic-nav-dropdown" className='text-primary'  >
               <NavDropdown.Item className='text-primary' href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
               <NavDropdown.Item className='text-primary' href="/Kobudo">
            Kobudo
@@ -29,8 +29,8 @@ function Navigation() {
               <NavDropdown.Item className='text-primary' href="/Arnis">Arnis</NavDropdown.Item>
               <NavDropdown.Item className='text-primary' href="/Instructor">Instructor</NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="Schedule">Schedule</Nav.Link>
-            <NavDropdown className='text-primary' title="Media" id="basic-nav-dropdown"  data-bs-theme="dark">
+            <Nav.Link className='text-primary'  href="Schedule">Schedule</Nav.Link>
+            <NavDropdown className='text-primary' title="Media" id="basic-nav-dropdown" >
               <NavDropdown.Item href="/Video">Video</NavDropdown.Item>
               <NavDropdown.Item href="/Pics">
               Pictures
