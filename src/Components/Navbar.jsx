@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Navigation() {
   return (
-    <nav>
+    
     <Navbar expand="lg" className='bg'>
       <Container >
         <Navbar.Brand href="/">     <img
@@ -20,7 +20,7 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
   
-            <NavDropdown title="About" id="basic-nav-dropdown">
+            <NavDropdown title="About" id="basic-nav-dropdown" className='text--bs-primary-text-emphasis'>
               <NavDropdown.Item href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
               <NavDropdown.Item href="/Kobudo">
            Kobudo
@@ -35,14 +35,13 @@ function Navigation() {
               <NavDropdown.Item href="/Pics">
               Pictures
               </NavDropdown.Item>
-            
             </NavDropdown>
             <Nav.Link href="Contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
-    </nav>
+    
   );
 }
 
