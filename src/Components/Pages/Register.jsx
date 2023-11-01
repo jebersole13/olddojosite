@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import Form from 'react-bootstrap/Form';
-function classRegistr(){
+function Register(){
     return(
 <motion.div
  initial={{ opacity: 0, scale: 0.5 }}
@@ -39,4 +39,4 @@ function classRegistr(){
     )
 }
 
-export default classRegistr
+export default Register
