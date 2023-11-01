@@ -15,6 +15,7 @@ import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
 import Error from './Components/Pages/Error';
 import Register from './Components/Pages/Register';
+import Thanks from './Components/Pages/Thanks';
 import './index.css';
 
 
@@ -38,6 +39,7 @@ function App() {
     <Route path='/Pics' element={<Pics/>}/>
     <Route path ='/Video' element={<Video/>}/>
     <Route path='/Register' element={<Register/>}/>
+    <Route path='/Thanks' element={<Thanks/>}/>
     <Route path="*" element={<Error/>}/>
      </Routes>
      </AnimatePresence>
