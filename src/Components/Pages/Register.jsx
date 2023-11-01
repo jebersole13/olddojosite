@@ -26,9 +26,9 @@ function Register(){
       </Form.Group>
       <Form.Select aria-label="Default select example" name='selection' required>
       <option>Class options</option>
-      <option value="1">Online Class</option>
-      <option value="2">In person</option>
-      <option value="3">Group Class</option>
+      <option value="Online">Online Class</option>
+      <option value="In Person">In person</option>
+      <option value="Group">Group Class</option>
     </Form.Select>
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
         <Form.Label>Message</Form.Label>
