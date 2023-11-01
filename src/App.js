@@ -13,7 +13,7 @@ import Ryukyu from './Components/Pages/About/Ryukyu';
 import Blog from './Components/Pages/Media/Blog/Blog';
 import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
-import classRegistr from './Components/Pages/classRegistr';
+import classRegistr from './Components/Pages/classRegistr'
 import Error from './Components/Pages/Error';
 import './index.css';
 
@@ -37,7 +37,7 @@ function App() {
     <Route path = '/Blog' element={<Blog/>}/>
     <Route path='/Pics' element={<Pics/>}/>
     <Route path ='/Video' element={<Video/>}/>
-    <Route path='./classRegistr' element={<classRegistr/>}/>
+   <Route path='./classRegistr' element={<classRegistr/>}/>
     <Route path="*" element={<Error/>}/>
      </Routes>
      </AnimatePresence>
