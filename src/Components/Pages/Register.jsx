@@ -33,6 +33,7 @@ function Register(){
         <Form.Label>Message</Form.Label>
         <Form.Control as="textarea" rows={3} />
       </Form.Group>
+      <Button as="input" type="submit" value="Submit" />
     </Form>
 
 </motion.div>
