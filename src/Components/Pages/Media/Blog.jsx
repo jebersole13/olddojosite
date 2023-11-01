@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
-import { fullpageApi } from '@fullpage/react-fullpage'
+
 function Blog() {
   return (
     <motion.div
@@ -9,8 +9,12 @@ function Blog() {
     transition={{ duration: 0.5 }}
     className='Blog'
     >
-      <h1>Blog</h1>
-
+      <h1>Training Blog</h1>
+<section>
+    <h3>Here we go again..</h3>
+    <img src="modelmaki.jpg" alt="maki" className='blogimg' />
+    <p></p>
+</section>
     </motion.div>
   )
 }

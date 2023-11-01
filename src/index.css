@@ -206,7 +206,15 @@ max-width:30.55%;
   width:50%; 
 }
 .Video{
-  gap: 1rem;
+  gap: 2rem;
+}
+.blogimg{
+  min-height: 25%;
+  max-height: 50%;
+  height: 25%;
+  max-width: 75%;
+  min-width: 37.5%;
+  width:25%; 
 }
 
 .form {
