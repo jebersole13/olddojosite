@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
-
+import { fullpageApi } from '@fullpage/react-fullpage'
 function Blog() {
   return (
     <motion.div
