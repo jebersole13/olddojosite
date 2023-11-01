@@ -10,7 +10,7 @@ function Register(){
 >
     <h1>Class Registration</h1>
     <Form name='classRegistr' method='POST' netlify onSubmit='submit'   
-      data-netlify-recaptcha="true" className='classRegistr' action="/thank-you">
+      data-netlify-recaptcha="true" className='classRegistr' id='register' action="/thank-you">
         <input type="hidden" name="form-name" value="classRegistr" />
     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>First Name</Form.Label>
