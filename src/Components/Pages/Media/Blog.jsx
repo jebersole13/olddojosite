@@ -11,7 +11,7 @@ function Blog() {
     >
       <h1>Training Blog</h1>
 <section>
-    <h3>Here we go again..</h3>
+    <h3>Here we go again</h3>
     <img src="modelmaki.jpg" alt="maki" className='blogimg' />
     <p></p>
 </section>
