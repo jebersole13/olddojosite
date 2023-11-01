@@ -14,11 +14,11 @@ function Register(){
         <input type="hidden" name="form-name" value="classRegistr" />
     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>First Name</Form.Label>
-        <Form.Control type="first" placeholder="First Name" />
+        <Form.Control type="name" placeholder="First Name" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Last Name</Form.Label>
-        <Form.Control type="email" placeholder="Last Name" />
+        <Form.Control type="name" placeholder="Last Name" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Email address</Form.Label>
