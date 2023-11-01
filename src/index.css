@@ -219,6 +219,15 @@ max-width:30.55%;
   width: 50%;
 }
 
+#register{
+  margin-top: 2%;
+  margin-left: 25%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #c9c1c1;
+  padding: 30px;
+  width: 50%;
+}
 .carousel { padding-bottom: 3rem; }
 .carousel-caption { top: 100%; }
 .carousel-inner { overflow: visible; }

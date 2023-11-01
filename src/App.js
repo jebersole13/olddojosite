@@ -10,10 +10,12 @@ import Bogu from './Components/Pages/About/Bogu';
 import Instructor from './Components/Pages/About/Instructor';
 import Kobudo from './Components/Pages/About/Kobudo';
 import Ryukyu from './Components/Pages/About/Ryukyu';
-import Blog from './Components/Pages/Media/Blog/Blog';
+import Blog from './Components/Pages/Media/Blog';
 import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
 import Error from './Components/Pages/Error';
+import Register from './Components/Pages/Register';
+import Thanks from './Components/Pages/Thanks';
 import './index.css';
 
 
@@ -36,6 +38,8 @@ function App() {
     <Route path = '/Blog' element={<Blog/>}/>
     <Route path='/Pics' element={<Pics/>}/>
     <Route path ='/Video' element={<Video/>}/>
+    <Route path='/Register' element={<Register/>}/>
+    <Route path='/Thanks' element={<Thanks/>}/>
     <Route path="*" element={<Error/>}/>
      </Routes>
      </AnimatePresence>
