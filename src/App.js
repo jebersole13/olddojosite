@@ -13,6 +13,7 @@ import Ryukyu from './Components/Pages/About/Ryukyu';
 import Blog from './Components/Pages/Media/Blog/Blog';
 import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
+import classRegistr from './Components/Pages/classRegistr';
 import Error from './Components/Pages/Error';
 import './index.css';
 
