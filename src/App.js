@@ -10,7 +10,7 @@ import Bogu from './Components/Pages/About/Bogu';
 import Instructor from './Components/Pages/About/Instructor';
 import Kobudo from './Components/Pages/About/Kobudo';
 import Ryukyu from './Components/Pages/About/Ryukyu';
-import Blog from './Components/Pages/Media/Blog/Blog';
+import Blog from './Components/Pages/Media/Blog';
 import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
 import Error from './Components/Pages/Error';
