@@ -14,17 +14,17 @@ function Register(){
         <input type="hidden" name="form-name" value="classRegistr" />
     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>First Name</Form.Label>
-        <Form.Control type="name" placeholder="First Name" />
+        <Form.Control type="text" placeholder="First Name" name='firstName'required />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Last Name</Form.Label>
-        <Form.Control type="name" placeholder="Last Name" />
+        <Form.Control type="text" placeholder="Last Name" name='lastName' required />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Email address</Form.Label>
-        <Form.Control type="email" placeholder="Email" />
+        <Form.Control type="email" placeholder="Email" name='email' required/>
       </Form.Group>
-      <Form.Select aria-label="Default select example">
+      <Form.Select aria-label="Default select example" name='selection' required>
       <option>Class options</option>
       <option value="1">Online Class</option>
       <option value="2">In person</option>
@@ -32,7 +32,7 @@ function Register(){
     </Form.Select>
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
         <Form.Label>Message</Form.Label>
-        <Form.Control as="textarea" rows={3} />
+        <Form.Control as="textarea" rows={3} name='message' required/>
       </Form.Group>
       <Button as="input" type="submit" value="Submit" />
     </Form>
