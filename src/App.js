@@ -37,7 +37,7 @@ function App() {
     <Route path = '/Blog' element={<Blog/>}/>
     <Route path='/Pics' element={<Pics/>}/>
     <Route path ='/Video' element={<Video/>}/>
-   <Route path='./classRegistr' element={<classRegistr/>}/>
+   <Route path='/classRegistr' element={<classRegistr/>}/>
     <Route path="*" element={<Error/>}/>
      </Routes>
      </AnimatePresence>
