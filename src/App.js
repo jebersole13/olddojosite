@@ -14,7 +14,7 @@ import Blog from './Components/Pages/Media/Blog/Blog';
 import Pics from './Components/Pages/Media/Pics';
 import Video from './Components/Pages/Media/Video';
 import Error from './Components/Pages/Error';
-import classRegistr from './Components/Pages/classRegistr';
+import Register from './Components/Pages/Register';
 import './index.css';
 
 
