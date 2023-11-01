@@ -39,7 +39,7 @@ function Schedule() {
       </tbody>
     </Table>
     <br />
-    <h5>Please register for these classes <a href='./classRegistr'>here</a> to receive link before class.</h5>
+    <h5>Please register for these classes <a href='./Register'>here</a> to receive link before class.</h5>
     <br />
     <h5>For in person personal or group lessons, please <a href='./Contact'>Contact</a> us for more information.</h5>
     </motion.div>
