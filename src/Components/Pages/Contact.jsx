@@ -10,7 +10,7 @@ function Contact() {
     className='Contact' >
       <h1>Contact us!</h1>
       <form name='contact' method='POST' netlify onSubmit='submit'   
-      data-netlify-recaptcha="true" className='contactForm' action="https://kotekarate.com/Thanks">
+      data-netlify-recaptcha="true" className='contactForm'action='.' >
         <div >
         <input type="hidden" name="form-name" value="contact" />
           <label className="form-label" htmlFor="firstName">
