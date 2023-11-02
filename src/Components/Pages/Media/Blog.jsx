@@ -15,7 +15,7 @@ function Blog() {
     ref={scrollRef}
     > 
          <h1>Training Blog</h1>
-    <div className="blog" ref={scrollRef}>
+   {/* <div className="blog" ref={scrollRef}>
     <header className="blog-header">
      <h3>One more time</h3>
     <img src="modelmaki.jpg" alt="maki" className='blogimg' />
@@ -53,7 +53,7 @@ But every time I go back to practicing the same thing, the same kata, the same t
     </header>
    
   </div>
- 
+ */}
 
 
 
