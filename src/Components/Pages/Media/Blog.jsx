@@ -5,7 +5,7 @@ import useScrollSnap from "react-use-scroll-snap";
 
 function Blog() {
   const scrollRef = useRef(null);
-  useScrollSnap({ ref: scrollRef, duration: 50, delay: 20 });
+  useScrollSnap({ ref: scrollRef, duration: 20, delay: 10 });
   return (
     <motion.div
     initial={{ opacity: 0, scale: 0.5 }}
@@ -13,13 +13,19 @@ function Blog() {
     transition={{ duration: 0.5 }}
     className='Blog'
     ref={scrollRef}
-    >
-      <h1>Training Blog</h1>
-<section>
-    <h3>Here we go again</h3>
+    > 
+         <h1>Training Blog</h1>
+    <div className="blog" ref={scrollRef}>
+    <header className="blog-header">
+     <h3>One more time</h3>
     <img src="modelmaki.jpg" alt="maki" className='blogimg' />
     <p></p>
-</section>
+      
+    </header>
+   
+  </div>
+ 
+
 
 
     </motion.div>
