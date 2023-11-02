@@ -242,5 +242,5 @@ max-width:30.55%;
 .carousel-control-next, .carousel-control-prev, .carousel-indicators { bottom: 3rem; }
 
 #date{
-  justify-content: right;
+  justify-content: left;
 }
