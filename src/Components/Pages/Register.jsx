@@ -10,7 +10,7 @@ function Register(){
 >
     <h1>Class Registration</h1>
     <Form name='classRegistr' method='POST' netlify onSubmit='submit'   
-      data-netlify-recaptcha="true" className='classRegistr' id='register' action="../Thanks">
+      data-netlify-recaptcha="true" className='classRegistr' id='register' >
         <input type="hidden" name="form-name" value="classRegistr" />
     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>First Name</Form.Label>
@@ -34,7 +34,7 @@ function Register(){
         <Form.Label>Message</Form.Label>
         <Form.Control as="textarea" rows={3} name='message' required/>
       </Form.Group>
-      <Button as="input" type="submit" value="Submit" />
+      <Button as="input" type="submit" value="Submit" href='/Thanks' />
     </Form>
 
 </motion.div>
