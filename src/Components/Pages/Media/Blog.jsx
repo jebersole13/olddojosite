@@ -56,7 +56,7 @@ But every time I go back to practicing the same thing, the same kata, the same t
  */}
 
 
-
+<h1>Coming soon</h1>
     </motion.div>
   )
 }
