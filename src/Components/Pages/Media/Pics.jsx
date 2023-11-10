@@ -21,7 +21,7 @@ function Pics() {
         <Carousel.Item>
           <img src="odlschool.jpg" alt="school" id='testing2007'/>
           <Carousel.Caption>  
-       
+       <p>After a testing.</p>
         </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
