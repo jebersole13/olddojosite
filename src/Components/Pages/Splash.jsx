@@ -1,6 +1,5 @@
 import React from 'react'
 import { motion } from "framer-motion";
-import {Fade} from 'react-awesome-reveal';
 function Splash() {
   return (
     <motion.div
@@ -13,11 +12,14 @@ function Splash() {
     <h1>Welcome to our Dojo!</h1>  
 <h3>Serving Gifu prefecture, with personal, group, and online classes.</h3>
 
-<Fade>
-      <p>古武道</p>
+<div className='elementToFadeInAndOut'>
+<p>古武道</p>
       <p>空手</p>
       <p>館</p>
-    </Fade>
+
+</div>
+      
+    
  <img src="newshisa.png" alt="shishi" id='shisasasa' />
      
       </motion.div>
