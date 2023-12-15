@@ -19,7 +19,6 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-  
             <NavDropdown  title="About" id="basic-nav-dropdown"   >
               <NavDropdown.Item  href="/Ryukyu"> Ryukyu Kempo</NavDropdown.Item>
               <NavDropdown.Item  href="/Kobudo">
@@ -42,8 +41,6 @@ function Navigation() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-    
   );
 }
-
 export default Navigation;

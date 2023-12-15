@@ -20,7 +20,6 @@ import Splash from './Components/Pages/Splash'
 import './index.css';
 
 
-
 function App() {
   const location= useLocation();
   return (
@@ -49,5 +48,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

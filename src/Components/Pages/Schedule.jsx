@@ -45,5 +45,4 @@ function Schedule() {
     </motion.div>
   )
 }
-
 export default Schedule

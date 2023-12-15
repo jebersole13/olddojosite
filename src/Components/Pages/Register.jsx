@@ -36,9 +36,7 @@ function Register(){
       </Form.Group>
       <Button as="input" type="submit" value="Submit" />
     </Form>
-
 </motion.div>
     )
 }
-
 export default Register
