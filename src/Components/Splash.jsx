@@ -1,5 +1,4 @@
-
-import {Slide,Fade} from 'react-awesome-reveal'
+import {Fade, Slide} from "react-awesome-reveal";
 import './Splash.css'
 
 const Splash =()=> {
@@ -8,8 +7,6 @@ const Splash =()=> {
 
    
   
-    <h1>Welcome to our Dojo!</h1>  
-<h3>Serving Gifu prefecture, with personal, group, and online classes.</h3>
 
 <div className='elementToFadeInAndOut'>
   <Slide triggerOnce='true' direction="left">
