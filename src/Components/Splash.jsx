@@ -1,5 +1,5 @@
 
-
+import {Slide,Fade} from 'react-awesome-reveal'
 import './Splash.css'
 
 const Splash =()=> {
