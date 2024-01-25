@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
-import Splash from '../Splash'
+
 function Home() {
   return (
     <motion.div
@@ -13,7 +13,8 @@ function Home() {
     <h1>Welcome to our Dojo!</h1>  
 <h3>Serving Gifu prefecture, with personal, group, and online classes.</h3>
 
-<Splash/>
+    
+ <img src="newshisa.png" alt="shishi" id='shisasasa' />
       </motion.div>
   )
 }
