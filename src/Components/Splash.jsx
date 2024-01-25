@@ -1,32 +1,29 @@
-import {Fade, Slide} from "react-awesome-reveal";
+import React from 'react'
+import {Fade,Slide} from 'react-awesome-reveal'
 import './Splash.css'
-
-const Splash =()=> {
+function Splash() {
   return (
-    <div className='Splash'>
-
-   
-  
-
-<div className='elementToFadeInAndOut'>
+    <div className='splash'>
+    <div className='elementToFadeInAndOut'>
+      
   <Slide triggerOnce='true' direction="left">
   <Fade cascade triggerOnce='true'>
-<p>古</p></Fade>
+<h1 id='kanji'>古 </h1></Fade>
 </Slide>
 <Slide triggerOnce='true' direction="up">
 <Fade cascade triggerOnce='true'>
-      <p>手</p
-      ></Fade></Slide>
+      <h1 id='kanji'>手</h1 ></Fade></Slide>
       <Slide triggerOnce='true' direction="right" >
       <Fade cascade triggerOnce='true'>
-      <p>館</p></Fade>
+      <h1 id='kanji'>館</h1></Fade>
+
 </Slide>
-</div>
-      
+
+     
+    </div>
     
  <img src="newshisa.png" alt="shishi" id='shisasasa' />
-     
-      </div>
+    </div>
   )
 }
 

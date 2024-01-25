@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion"
-import Splash from './Components/Splash'
+import Splash from '../Splash'
 function Home() {
   return (
     <motion.div

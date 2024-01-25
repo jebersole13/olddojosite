@@ -1,6 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=YujiMai');
+
 .elementToFadeInAndOut{
    
-    color: white;
-    font-size: xx-large;
-    
+    color: rgb(29, 26, 26);
+display: grid;
+  
+    grid-template-columns: auto auto auto;
 }
+#kanji{
+ font-family: 'YujiMai';
+font-size: 10rem;
+align-items: center;
+}
+
+/*.elementToFadeInAndOut {
+    width:200px;
+    height: 200px;
+   
+    -webkit-animation: fadeinout 4s linear forwards;
+    animation: fadeinout 4s linear forwards;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeinout {
+  50% { opacity: 1; }
+}
+
+@keyframes fadeinout {
+  50% { opacity: 1; }
+}*/
