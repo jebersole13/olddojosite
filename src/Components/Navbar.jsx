@@ -34,7 +34,7 @@ function Navigation() {
               <NavDropdown.Item href="/Pics">
               Pictures
               </NavDropdown.Item>
-              <NavDropdown.Item href='/Blog'>Blog</NavDropdown.Item>
+             
             </NavDropdown>
             <Nav.Link  href="Contact">Contact</Nav.Link>
           </Nav>
