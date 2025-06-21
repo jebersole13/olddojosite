@@ -1,3 +1,12 @@
+This is one of the first applications I pushed out on my own.
+
+Has some hilarious mistakes in there, and has been refactored.
+
+So much so, I am leaving in the old RCA README.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
