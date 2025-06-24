@@ -1,8 +1,11 @@
 This is one of the first applications I pushed out on my own.
 
-Has some hilarious mistakes in there, and has been refactored.
+Has some hilarious mistakes in there, and has been refactored. 
 
-So much so, I am leaving in the old RCA README.
+You can see the most updated version here: kotekarate.com.
+
+ 
+ I am leaving in the old RCA README as somewhat of a historical document.
 
 
 
