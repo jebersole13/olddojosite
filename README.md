@@ -2,7 +2,7 @@ This is one of the first applications I pushed out on my own.
 
 Has some hilarious mistakes in there, and has been refactored. 
 
-You can see the most updated version here:[Dojo Site(https://kotekarate.com)]
+You can see the most updated version here:[Dojo Site](https://kotekarate.com)
 
  
  I am leaving in the old RCA README as somewhat of a historical document.
